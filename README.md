@@ -2,8 +2,7 @@
 
 <li>
   <ol>Realização de conexão da base de dados com o BigQuery</ol>
-  ![Screenshot_1](https://github.com/user-attachments/assets/33d5568b-ce23-4555-9950-dcbc5ba8b524)
-
+![Screenshot_1](https://github.com/user-attachments/assets/0478238e-e3e8-4340-94a8-cdf9df471f6d)
 
   
 </li>
