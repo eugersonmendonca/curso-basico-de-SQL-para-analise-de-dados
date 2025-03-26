@@ -1,4 +1,4 @@
-# curso-basico-de-SQL-para-analise-de-dados
+# curso-basico-de-sql-para-analise-de-dados
 
 <li>
   <ol>Realização de conexão da base de dados com o BigQuery</ol>
